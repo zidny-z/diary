@@ -1,6 +1,6 @@
 ## Requirements
-PHP 8.1 + <a link='https://www.php.net/downloads'>Download di sini</a>
-Web server software seperti laragon <a link='https://laragon.org/download/'>Download di sini</a>
+PHP 8.1 + <a href='https://www.php.net/downloads'>Download di sini</a>
+Web server software seperti laragon <a href='https://laragon.org/download/'>Download di sini</a>
 
 ##  Cara clone
 

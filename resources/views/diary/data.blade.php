@@ -8,6 +8,7 @@
   </head>
   <body class="p-5">
     <h1 class="text-center">My Diary Mood</h1>   
+    <div class="text-center"><a href="{{ route('dashboard') }}" class="text-center">Back</a></div>
     <div class="d-flex">
       <button type="button" class="btn btn-sm btn-dark ml-auto p-2" onclick="window.location='{{ url('diary/create') }}'">
        Tambah Data
